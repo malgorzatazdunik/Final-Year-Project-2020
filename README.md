@@ -1,4 +1,6 @@
 ## Computer-Science-Project-2020
+
+### Full repository can be found on GitLab
 #[GitLab Repository](https://gitlab.doc.gold.ac.uk/mzdun001/Computer-Science-Project-2020)
 
 ## Report: ["Deep Learning For Multi-Label Emotion Classification in Social Media Posts"](https://drive.google.com/file/d/1BpnTVBu1XYKJj-0GdWmxxM6iWVv6STsb/view?usp=sharing)
@@ -24,22 +26,6 @@ f1 score, which I used to evaluate my models on the test set, were official metr
 used in the contest. Therefore, as part of the evaluation of my project, I compare
 my results with the official results published, as well as the results achieved post
 evaluation period.
-
-### Directories
-- Experiments that I describe in my report can all be found in **[SemEval models](SemEval models/)** :
-(Experiment 0 to Experiment 7, and "Best models trained with (...) - dimensional Twitter embeddings").
-
-- Data set I use can be found in [SemEval models/data](SemEval models/data)
-
-- I evaluate experiments on test set at the end of each notebook, but [SemEval models/TEST.ipynb](SemEval models/TEST.ipynb)
-is where I load one of the best performing models and create files with predictions on the SemEval test set :
-[SemEval models/test_set_predictions.txt](SemEval models/test_set_predictions.txt), and on my own data set downloaded with Twint : [SemEval models/twint_data_predictions.txt](SemEval models/twint_data_predictions.txt).
-
-- [SemEval models/E-C_en_pred.txt](SemEval models/E-C_en_pred.txt) is a file in a specific format needed to sumbit to automatic scoring in the [SemEval competition](https://competitions.codalab.org/competitions/17751#participate).
-
-- [SemEval models/graphs/](SemEval models/graphs) : all graphs of model architectures
-
-- [SemEval models/trained models](SemEval models/trained models/) : saved models
 
 ### Pre-trained embeddings:
 In my experiments I use pre-trained embeddings that are not in this repository 
