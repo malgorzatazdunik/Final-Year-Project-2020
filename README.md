@@ -1,7 +1,4 @@
-## Computer-Science-Project-2020
-
-### Full repository can be found on GitLab
-#[GitLab Repository](https://gitlab.doc.gold.ac.uk/mzdun001/Computer-Science-Project-2020)
+## Full repository can be found on [GitLab](https://gitlab.doc.gold.ac.uk/mzdun001/Computer-Science-Project-2020)
 
 ## Report: ["Deep Learning For Multi-Label Emotion Classification in Social Media Posts"](https://drive.google.com/file/d/1BpnTVBu1XYKJj-0GdWmxxM6iWVv6STsb/view?usp=sharing)
 
